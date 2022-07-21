@@ -1,0 +1,56 @@
+* {
+  font-size: 2rem;
+  /* float: left;
+  width: 100%; */
+}
+
+#places {
+  border: 5px dotted brown;
+  float: left;
+  width: 80%;
+  height: 150px;
+}
+#placeToShow {
+  float: left;
+  width: 50%;
+  border: 2px solid green;
+  height: 100px;
+  color: black;
+}
+#placeToShowOperator {
+  float: left;
+  width: 20%;
+  border: 4px solid yellow;
+  height: 100px;
+}
+#numbers {
+  float: left;
+  border: 5px solid red;
+  background-color: pink;
+  width: 80%;
+}
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #zero{
+  float: left;
+  width: 33.33%;
+  color: red;
+}
+#operators {
+  background-color: lightblue;
+  width: 80%;
+  float: left;
+  border: 5px solid blue;
+}
+#subtraction, #addition, #multiplication, #division {
+  float: left;
+  width: 50%;
+  color: blue;
+}
+#reset {
+  float: left;
+  width: 100%;
+  color: blue;
+  /* background-color: lightblue; */
+}
+ul {
+  list-style: none;
+}
