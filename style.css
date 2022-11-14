@@ -1,5 +1,5 @@
 * {
-  font-size: 2rem;
+  font-size: 1.5rem;
   /* float: left;
   width: 100%; */
 }
@@ -10,19 +10,22 @@
   width: 80%;
   height: 150px;
 }
-#placeToShow {
-  float: left;
-  width: 50%;
-  border: 2px solid green;
-  height: 100px;
-  color: black;
-}
-#placeToShowOperator {
+#placeToShowOperators {
   float: left;
   width: 20%;
   border: 4px solid yellow;
   height: 100px;
 }
+#placeToShowNumbers {
+  float: left;
+  width: 62%;
+  border: 2px solid green;
+  height: 100px;
+  color: black;
+}
+/* #placeToShowNumbers * {
+  float: right;
+} */
 #numbers {
   float: left;
   border: 5px solid red;

@@ -57,4 +57,3 @@ function three() {
 
 // i click on button
 // if no operator is in place, and the total is zero. 
-
