@@ -58,3 +58,7 @@ function three() {
 // i click on button
 // if no operator is in place, and the total is zero. 
 
+// what the hell is this?
+// just to get my github points up. that's why i'm doing this. 
+
+// okay nov 14th, until i get git to work on my new computer i'm giong to have to do this hack haha
